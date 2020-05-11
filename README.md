@@ -1,6 +1,6 @@
 # iot_first_app
 
-An IoT Flutter app.
+Just a simple app that turn on two lamps using MQTT protocol.
 
 ## Getting Started
 
